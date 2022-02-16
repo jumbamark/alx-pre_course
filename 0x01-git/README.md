@@ -1,4 +1,5 @@
-# Git Resources
+# 0x01. Git
+**Resources for Git and github learning.**
 
 1. *Setting up Git*
 [link](https://docs.github.com/en/get-started/quickstart/set-up-git)
